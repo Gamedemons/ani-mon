@@ -1,5 +1,15 @@
 # ani-mon
 
+## First Look
+### Home Page
+![](https://github.com/Gamedemons/ani-mon/blob/master/static/Animon%20-%20Google%20Chrome%2011-01-2023%2008_36_07%20(2).png)
+
+### Details Page
+![](https://github.com/Gamedemons/ani-mon/blob/master/static/Animon%20-%20Google%20Chrome%2011-01-2023%2008_39_12%20(2).png)
+
+### Episode Page
+![](https://github.com/Gamedemons/ani-mon/blob/master/static/Animon%20-%20Google%20Chrome%2011-01-2023%2008_39_56%20(2).png)
+
 ## Build Setup
 
 ```bash
