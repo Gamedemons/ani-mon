@@ -1,4 +1,4 @@
-# ani-mon
+# Animon
 
 ## First Look
 ### Home Page
